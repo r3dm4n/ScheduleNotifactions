@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScheduleNotifactions</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="time_picker_result_value">%1$s:%2$s</string>
+    <string name="set_time">SET TIME</string>
+</resources>
